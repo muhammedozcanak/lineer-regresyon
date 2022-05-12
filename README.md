@@ -56,7 +56,7 @@ print(str(z) + ". Ayın Sonundaki Toplam Satış Miktarı Tahmini Olarak = " + s
 Ort fark toplamı =Topla (yi-yort)^2
 R^2=1- HKT/OFT """
 
-![Ekran Alıntısı](https://user-images.githubusercontent.com/99281922/168000621-1c6a33bb-c99b-47db-803a-c0abbf25e62c.PNG)
+![Ekran Alıntısı](https://user-images.githubusercontent.com/99281922/168000805-70fd0e15-7d92-4d5f-9a7e-615494eaf0ea.PNG)
 
 ![Figure 2022-05-12 083615](https://user-images.githubusercontent.com/99281922/167999207-ef2fab96-bd95-4da8-8020-f0105341ef0f.png)
 
