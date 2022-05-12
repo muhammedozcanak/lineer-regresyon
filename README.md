@@ -1,12 +1,5 @@
 # lineer-regresyon
 
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct 29 19:22:52 2019
-
-@author: metay
-"""
-
 import pandas as pd
 import matplotlib.pyplot as plt
 
